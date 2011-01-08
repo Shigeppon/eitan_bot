@@ -10,6 +10,6 @@ t = TwitterOAuth::Client.new({
 
 words = ["smash","sneeze","struggle","stupid","substance"]
 
-t.update words[rand(words.size)] + "rand:#{rand(1000)}"
+t.update words[rand(words.size)] + ":rand=>#{rand(1000)}"
 
 #p Marshal.dump(t)
