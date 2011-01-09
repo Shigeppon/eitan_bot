@@ -19,13 +19,19 @@ t = TwitterOAuth::Client.new({
 })
 
 word_xml = Document.new File.new(File.dirname(__FILE__) + "/word.xml")
-#words = ["smash","sneeze","struggle","stupid","substance"]
-#words = word_xml.elements.each('/root/word'){|element| puts element.text}
-words = Array.new(0)
-word_xml.elements.each('/root/word'){|element| words.push(element.text)}
 
-word = words[rand(words.size)]
-tweet = "#{word}\n\nhttp://ejje.weblio.jp/content/#{word}" 
+words = Array.new(0)
+word_xml.elements.each('/root/word') do |element|
+  examples = Array.new(0)
+  name = element.attributes["name"]
+  element.elements.each('example'){|element| examples.push([element.text])}
+  words.push([name,examples])
+end
+
+index = rand(words.size)
+word = words[index]
+
+tweet = "[#{word[0]}]   #{word[1]}   http://ejje.weblio.jp/content/#{word[0]}" 
 
 t.update tweet
 
