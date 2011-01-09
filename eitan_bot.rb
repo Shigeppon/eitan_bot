@@ -18,8 +18,13 @@ t = TwitterOAuth::Client.new({
   :secret=>secret
 })
 
-words = ["smash","sneeze","struggle","stupid","substance"]
+word_xml = Document.new File.new("word.xml")
+#words = ["smash","sneeze","struggle","stupid","substance"]
+words = word_xml.elements.each('/root/word'){|element| puts element.text}
 
-t.update words[rand(words.size)] + ":rand=>#{rand(1000)}"
+word = words[rand(words.size)]
+tweet = "#{word}:rand=>#{rand(1000)}\nhttp://ejje.weblio.jp/content/#{word}" 
+
+t.update tweet
 
 #p Marshal.dump(t)
