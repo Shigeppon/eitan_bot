@@ -4,7 +4,7 @@ require 'rexml/document'
 
 include REXML
 
-doc = Document.new File.new("secret.xml")
+doc = Document.new File.new(File.dirname(__FILE__) + "/secret.xml")
 
 consumer_key = doc.elements['/root/consumer_key'].text
 consumer_secret = doc.elements['/root/consumer_secret'].text
@@ -18,7 +18,7 @@ t = TwitterOAuth::Client.new({
   :secret=>secret
 })
 
-word_xml = Document.new File.new("word.xml")
+word_xml = Document.new File.new(File.dirname(__FILE__) + "/word.xml")
 #words = ["smash","sneeze","struggle","stupid","substance"]
 #words = word_xml.elements.each('/root/word'){|element| puts element.text}
 words = Array.new(0)
