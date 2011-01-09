@@ -96,7 +96,7 @@
     <example></example>
   </word>
   <word name="treaty">
-    <example></example>
+    <example>a peace treaty</example>
   </word>
   <word name="tribe">
     <example></example>
@@ -380,9 +380,6 @@
   <word name="deal">
     <example></example>
   </word>
-  <word name="dear">
-    <example></example>
-  </word>
   <word name="declare">
     <example></example>
   </word>
@@ -396,7 +393,8 @@
     <example></example>
   </word>
   <word name="denounce">
-    <example></example>
+    <example>denounce a hersy</example>
+    <example>denounce a person as a trator</example>
   </word>
   <word name="deploy">
     <example></example>
