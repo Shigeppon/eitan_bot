@@ -4,7 +4,7 @@ require 'rexml/document'
 
 include REXML
 
-doc = Document.new File.new(File.dirname(__FILE__) + "/secret.xml")
+doc = Document.new File.new(File.dirname(__FILE__) + "/public/secrets/secret.xml")
 
 consumer_key = doc.elements['/root/consumer_key'].text
 consumer_secret = doc.elements['/root/consumer_secret'].text
