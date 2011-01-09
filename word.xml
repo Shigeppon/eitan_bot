@@ -17,13 +17,14 @@
     <example>I suppose you're right.</example>
   </word>
   <word name="smash">
-    <example></example>
+    <example>smash a window</example>
+    <example>smash a plate into pieces</example>
   </word>
   <word name="sneeze">
     <example></example>
   </word>
   <word name="nowhere">
-    <example></example>
+    <example>There is nowhere else to go.</example>
   </word>
   <word name="starve">
     <example>starve to death</example>
@@ -242,6 +243,174 @@
     <example></example>
   </word>
   <word name="borrow">
+    <example></example>
+  </word>
+  <word name="brake">
+    <example></example>
+  </word>
+  <word name="brass">
+    <example></example>
+  </word>
+  <word name="brave">
+    <example></example>
+  </word>
+  <word name="bread">
+    <example></example>
+  </word>
+  <word name="breathe">
+    <example></example>
+  </word>
+  <word name="brick">
+    <example></example>
+  </word>
+  <word name="bright">
+    <example></example>
+  </word>
+  <word name="budget">
+    <example></example>
+  </word>
+  <word name="bullet">
+    <example></example>
+  </word>
+  <word name="bury">
+    <example></example>
+  </word>
+  <word name="cabinet">
+    <example></example>
+  </word>
+  <word name="calm">
+    <example></example>
+  </word>
+  <word name="candidate">
+    <example></example>
+  </word>
+  <word name="certain">
+    <example></example>
+  </word>
+  <word name="chase">
+    <example></example>
+  </word>
+  <word name="cheer">
+    <example></example>
+  </word>
+  <word name="claim">
+    <example></example>
+  </word>
+  <word name="climate">
+    <example></example>
+  </word>
+  <word name="climb">
+    <example></example>
+  </word>
+  <word name="coal">
+    <example></example>
+  </word>
+  <word name="collar">
+    <example></example>
+  </word>
+  <word name="college">
+    <example></example>
+  </word>
+  <word name="colony">
+    <example></example>
+  </word>
+  <word name="compete">
+    <example></example>
+  </word>
+  <word name="compromise">
+    <example></example>
+  </word>
+  <word name="concern">
+    <example></example>
+  </word>
+  <word name="condemn">
+    <example></example>
+  </word>
+  <word name="conference">
+    <example></example>
+  </word>
+  <word name="congratulate">
+    <example></example>
+  </word>
+  <word name="congress">
+    <example></example>
+  </word>
+  <word name="conservative">
+    <example></example>
+  </word>
+  <word name="continent">
+    <example></example>
+  </word>
+  <word name="convention">
+    <example></example>
+  </word>
+  <word name="cooperate">
+    <example></example>
+  </word>
+  <word name="cork">
+    <example></example>
+  </word>
+  <word name="corn">
+    <example></example>
+  </word>
+  <word name="cotton">
+    <example></example>
+  </word>
+  <word name="court">
+    <example></example>
+  </word>
+  <word name="cover">
+    <example></example>
+  </word>
+  <word name="credit">
+    <example></example>
+  </word>
+  <word name="crime">
+    <example></example>
+  </word>
+  <word name="criminal">
+    <example></example>
+  </word>
+  <word name="criticize">
+    <example></example>
+  </word>
+  <word name="deaf">
+    <example></example>
+  </word>
+  <word name="deal">
+    <example></example>
+  </word>
+  <word name="dear">
+    <example></example>
+  </word>
+  <word name="declare">
+    <example></example>
+  </word>
+  <word name="decrease">
+    <example></example>
+  </word>
+  <word name="deficit">
+    <example></example>
+  </word>
+  <word name="delicate">
+    <example></example>
+  </word>
+  <word name="denounce">
+    <example></example>
+  </word>
+  <word name="deploy">
+    <example></example>
+  </word>
+  <word name="depression">
+    <example></example>
+  </word>
+  <word name="dictator">
+    <example></example>
+  </word>
+  <word name="dig">
+    <example></example>
+  </word>
+  <word name="diplomat">
     <example></example>
   </word>
 </root>
