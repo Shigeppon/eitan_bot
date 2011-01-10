@@ -69,19 +69,14 @@
     <example></example>
   </word>
   <word name="terrible">
-    <example></example>
+    <example>a terrible crash of thunder</example>
   </word>
   <word name="prevent">
+    <example>prevent progress</example>
     <example>prevent misfortune</example>
   </word>
   <word name="thick">
-    <example></example>
-  </word>
-  <word name="tin">
-    <example></example>
-  </word>
-  <word name="tongue">
-    <example></example>
+    <example>a thick book</example>
   </word>
   <word name="torture">
     <example>put a person to fortune by water torture</example>
@@ -152,7 +147,7 @@
     <example></example>
   </word>
   <word name="accuse">
-    <example></example>
+    <example>acuse a person of theft</example>
   </word>
   <word name="activist">
     <example>a student activist</example>
@@ -187,6 +182,7 @@
   </word>
   <word name="argue">
     <example>argue a question</example>
+    <example>argue one's position</example>
   </word>
   <word name="arrest">
     <example></example>
@@ -196,6 +192,9 @@
   </word>
   <word name="ash">
     <example></example>
+  </word>
+  <word name="asylum">
+    <example>an insane asylum</example>
   </word>
   <word name="astronomy">
     <example></example>
@@ -260,9 +259,6 @@
   <word name="bright">
     <example></example>
   </word>
-  <word name="budget">
-    <example></example>
-  </word>
   <word name="bullet">
     <example></example>
   </word>
@@ -283,6 +279,9 @@
   </word>
   <word name="claim">
     <example></example>
+  </word>
+  <word name="cruelty">
+    <example>They treated him with cruelty and insult.</example>
   </word>
   <word name="climate">
     <example></example>
@@ -324,12 +323,6 @@
     <example></example>
   </word>
   <word name="corn">
-    <example></example>
-  </word>
-  <word name="cotton">
-    <example></example>
-  </word>
-  <word name="court">
     <example></example>
   </word>
   <word name="cover">
@@ -424,7 +417,7 @@
     <example></example>
   </word>
   <word name="examine">
-    <example></example>
+    <example>examine old records</example>
   </word>
   <word name="excuse">
     <example></example>
@@ -496,19 +489,19 @@
     <example></example>
   </word>
   <word name="inject">
-    <example></example>
+    <example>inject a vaccine under the skin</example>
   </word>
   <word name="injure">
     <example></example>
   </word>
   <word name="insane">
-    <example></example>
+    <example>an insane asylum</example>
   </word>
   <word name="inspect">
     <example></example>
   </word>
   <word name="insult">
-    <example></example>
+    <example>They treated him with cruelty and insult.</example>
   </word>
   <word name="intense">
     <example></example>
@@ -569,7 +562,7 @@
     <example></example>
   </word>
   <word name="possess">
-    <example></example>
+    <example>possess wealth</example>
   </word>
   <word name="postpone">
     <example></example>
@@ -587,10 +580,10 @@
     <example>These papers will prove that he is innocent.</example>
   </word>
   <word name="punish">
-    <example></example>
+    <example>His father punished him for his carelessness.</example>
   </word>
   <word name="raid">
-    <example></example>
+    <example>air raid</example>
   </word>
   <word name="react">
     <example></example>
@@ -599,13 +592,13 @@
     <example></example>
   </word>
   <word name="refugee">
-    <example></example>
+    <example>a refugee camp</example>
   </word>
   <word name="represent">
-    <example></example>
+    <example>a union representing 700 workers</example>
   </word>
   <word name="resign">
-    <example></example>
+    <example>The Cabinet has resigned.</example>
   </word>
   <word name="restrain">
     <example></example>
