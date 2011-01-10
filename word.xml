@@ -104,9 +104,6 @@
   <word name="threaten">
     <example>threaten dissmissal</example>
   </word>
-  <word name="through">
-    <example></example>
-  </word>
   <word name="usual">
     <example></example>
   </word>
@@ -117,7 +114,8 @@
     <example>vicious habit</example>
   </word>
   <word name="victim">
-    <example></example>
+    <example>a victim of oppression</example>
+    <example>a victim of a swindler</example>
   </word>
   <word name="violate">
     <example></example>
@@ -142,7 +140,7 @@
     <example></example>
   </word>
   <word name="worth">
-    <example></example>
+    <example>Rome is a city worth visiting.</example>
   </word>
   <word name="wound">
     <example></example>
@@ -153,14 +151,11 @@
   <word name="soil">
     <example></example>
   </word>
-  <word name="wealth">
-    <example></example>
-  </word>
   <word name="accuse">
     <example></example>
   </word>
   <word name="activist">
-    <example></example>
+    <example>a student activist</example>
   </word>
   <word name="admit">
     <example>He opened the door and admitted me.</example>
@@ -181,13 +176,14 @@
     <example></example>
   </word>
   <word name="ammunition">
-    <example></example>
+    <example>an assortment of rifle ammunition</example>
   </word>
   <word name="apologize">
     <example></example>
   </word>
   <word name="approve">
-    <example></example>
+    <example>He approved the scheme.</example>
+    <example>The committee approved the budget.</example>
   </word>
   <word name="argue">
     <example>argue a question</example>
@@ -259,7 +255,7 @@
     <example></example>
   </word>
   <word name="brick">
-    <example></example>
+    <example>lay bricks</example>
   </word>
   <word name="bright">
     <example></example>
@@ -285,19 +281,10 @@
   <word name="certain">
     <example></example>
   </word>
-  <word name="chase">
-    <example></example>
-  </word>
-  <word name="cheer">
-    <example></example>
-  </word>
   <word name="claim">
     <example></example>
   </word>
   <word name="climate">
-    <example></example>
-  </word>
-  <word name="climb">
     <example></example>
   </word>
   <word name="coal">
@@ -312,9 +299,6 @@
   <word name="colony">
     <example></example>
   </word>
-  <word name="compete">
-    <example></example>
-  </word>
   <word name="compromise">
     <example></example>
   </word>
@@ -324,16 +308,7 @@
   <word name="condemn">
     <example></example>
   </word>
-  <word name="conference">
-    <example></example>
-  </word>
-  <word name="congratulate">
-    <example></example>
-  </word>
   <word name="congress">
-    <example></example>
-  </word>
-  <word name="conservative">
     <example></example>
   </word>
   <word name="continent">
@@ -416,10 +391,10 @@
     <example></example>
   </word>
   <word name="dispute">
-    <example></example>
+    <example>Wi disputed with them about the subject for hours.</example>
   </word>
   <word name="dissident">
-    <example></example>
+    <example>a dissident voice</example>
   </word>
   <word name="duty">
     <example></example>
@@ -467,7 +442,7 @@
     <example></example>
   </word>
   <word name="feather">
-    <example></example>
+    <example>Fine feathers make fine birds.</example>
   </word>
   <word name="feed">
     <example></example>
@@ -491,7 +466,7 @@
     <example></example>
   </word>
   <word name="govern">
-    <example></example>
+    <example>She governed her country wisely.</example>
   </word>
   <word name="guilty">
     <example></example>
@@ -532,9 +507,6 @@
   <word name="inspect">
     <example></example>
   </word>
-  <word name="instrument">
-    <example></example>
-  </word>
   <word name="insult">
     <example></example>
   </word>
@@ -561,9 +533,6 @@
     <example></example>
   </word>
   <word name="moderate">
-    <example></example>
-  </word>
-  <word name="narrow">
     <example></example>
   </word>
   <word name="nerve">
