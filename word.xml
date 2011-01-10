@@ -135,7 +135,8 @@
     <example></example>
   </word>
   <word name="withdraw">
-    <example></example>
+    <example>withdoraw a curtain</example>
+    <example>I quickly withdrew my hand from the stove.</example>
   </word>
   <word name="worse">
     <example></example>
@@ -152,9 +153,6 @@
   <word name="soil">
     <example></example>
   </word>
-  <word name="truck">
-    <example></example>
-  </word>
   <word name="wealth">
     <example></example>
   </word>
@@ -165,7 +163,7 @@
     <example></example>
   </word>
   <word name="admit">
-    <example></example>
+    <example>He opened the door and admitted me.</example>
   </word>
   <word name="afraid">
     <example></example>
@@ -669,9 +667,6 @@
     <example></example>
   </word>
   <word name="sever">
-    <example></example>
-  </word>
-  <word name="shame">
     <example></example>
   </word>
 </root>
