@@ -33,7 +33,7 @@
     <example>the Statue of Liberty</example>
   </word>
   <word name="stick">
-    <example></example>
+    <example>Get some sticks for the fire.</example>
   </word>
   <word name="struggle">
     <example>struggle like a fish out of water</example>
@@ -88,7 +88,10 @@
     <example>high treason</example>
   </word>
   <word name="treatment">
-    <example></example>
+    <example>receive cruel treatment</example>
+  </word>
+  <word name="cruel">
+    <example>receive cruel treatment</example>
   </word>
   <word name="treaty">
     <example>a peace treaty</example>
@@ -103,7 +106,7 @@
     <example></example>
   </word>
   <word name="veto">
-    <example></example>
+    <example>exercise the power of veto</example>
   </word>
   <word name="vicious">
     <example>vicious habit</example>
@@ -116,7 +119,8 @@
     <example></example>
   </word>
   <word name="wage">
-    <example></example>
+    <example>minium level</example>
+    <example>a wage level</example>
   </word>
   <word name="ruin">
     <example></example>
@@ -230,13 +234,13 @@
     <example></example>
   </word>
   <word name="bleed">
-    <example></example>
+    <example>The cut is bleeding.</example>
   </word>
   <word name="board">
     <example></example>
   </word>
   <word name="borrow">
-    <example></example>
+    <example>May I borrow your dictionary?</example>
   </word>
   <word name="brake">
     <example></example>
@@ -272,7 +276,7 @@
     <example></example>
   </word>
   <word name="candidate">
-    <example></example>
+    <example>a candidate for president</example>
   </word>
   <word name="certain">
     <example></example>
@@ -299,7 +303,7 @@
     <example></example>
   </word>
   <word name="compromise">
-    <example></example>
+    <example>a compromise between oppsite opinions</example>
   </word>
   <word name="concern">
     <example></example>
@@ -398,8 +402,8 @@
   <word name="ease">
     <example></example>
   </word>
-  <word name="lastic">
-    <example></example>
+  <word name="elastic">
+    <example>elastic string</example>
   </word>
   <word name="electricity">
     <example></example>
@@ -586,7 +590,7 @@
     <example>air raid</example>
   </word>
   <word name="react">
-    <example></example>
+    <example>Our eyes react to light.</example>
   </word>
   <word name="recession">
     <example></example>
@@ -626,7 +630,7 @@
     <example></example>
   </word>
   <word name="senate">
-    <example></example>
+    <example>a member of a senate</example>
   </word>
   <word name="sever">
     <example></example>
