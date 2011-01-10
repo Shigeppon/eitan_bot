@@ -210,7 +210,7 @@
     <example></example>
   </word>
   <word name="attempt">
-    <example></example>
+    <example>They attempted an attack by night.</example>
   </word>
   <word name="attend">
     <example></example>
@@ -365,9 +365,6 @@
   <word name="credit">
     <example></example>
   </word>
-  <word name="crime">
-    <example></example>
-  </word>
   <word name="criminal">
     <example></example>
   </word>
@@ -400,7 +397,7 @@
     <example></example>
   </word>
   <word name="depression">
-    <example></example>
+    <example>nervous depression</example>
   </word>
   <word name="dictator">
     <example></example>
@@ -553,10 +550,8 @@
     <example></example>
   </word>
   <word name="invest">
-    <example></example>
-  </word>
-  <word name="investigate">
-    <example></example>
+    <example>I have no money to invest.</example>
+    <example>He invested his money in stocks and bonds.</example>
   </word>
   <word name="jail">
     <example></example>
@@ -622,7 +617,7 @@
     <example></example>
   </word>
   <word name="prove">
-    <example></example>
+    <example>These papers will prove that he is innocent.</example>
   </word>
   <word name="punish">
     <example></example>
@@ -649,7 +644,8 @@
     <example></example>
   </word>
   <word name="revolt">
-    <example></example>
+    <example>The people revolted against the dictator.</example>
+    <example>The stomach revolts at such food.</example>
   </word>
   <word name="reward">
     <example></example>
