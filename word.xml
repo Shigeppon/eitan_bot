@@ -39,13 +39,13 @@
     <example>struggle like a fish out of water</example>
   </word>
   <word name="stupid">
-    <example></example>
+    <example>a stupid fellow</example>
   </word>
   <word name="substance">
     <example>a sticky substance</example>
   </word>
   <word name="substitute">
-    <example></example>
+    <example>substitute margarine for butter</example>
   </word>
   <word name="suppress">
     <example>It took only two days to suppress the rebellions</example>
@@ -66,7 +66,7 @@
     <example>swear by God</example>
   </word>
   <word name="sympathy">
-    <example></example>
+    <example>They don't feel much sympathy for us.</example>
   </word>
   <word name="terrible">
     <example>a terrible crash of thunder</example>
@@ -100,6 +100,7 @@
     <example>the Hill Tribes of Bangladesh</example>
   </word>
   <word name="threaten">
+    <example>The mugger threatened me,so I gave him my money.</example>
     <example>threaten dissmissal</example>
   </word>
   <word name="usual">
@@ -119,7 +120,7 @@
     <example></example>
   </word>
   <word name="wage">
-    <example>minium level</example>
+    <example>minimum wage</example>
     <example>a wage level</example>
   </word>
   <word name="ruin">
@@ -132,7 +133,7 @@
     <example></example>
   </word>
   <word name="withdraw">
-    <example>withdoraw a curtain</example>
+    <example>withdraw a curtain</example>
     <example>I quickly withdrew my hand from the stove.</example>
   </word>
   <word name="worse">
@@ -169,7 +170,7 @@
     <example></example>
   </word>
   <word name="ally">
-    <example></example>
+    <example>The United States allied itself with Japan.</example>
   </word>
   <word name="although">
     <example></example>
@@ -204,7 +205,10 @@
     <example></example>
   </word>
   <word name="atmosphere">
-    <example></example>
+    <example>a humid atmosphere</example>
+  </word>
+  <word name="humid">
+    <example>a humid atmosphere</example>
   </word>
   <word name="attempt">
     <example>They attempted an attack by night.</example>
@@ -267,7 +271,7 @@
     <example></example>
   </word>
   <word name="bury">
-    <example></example>
+    <example>be dead and buried</example>
   </word>
   <word name="cabinet">
     <example></example>
@@ -388,7 +392,7 @@
     <example></example>
   </word>
   <word name="dispute">
-    <example>Wi disputed with them about the subject for hours.</example>
+    <example>We disputed with them about the subject for hours.</example>
   </word>
   <word name="dissident">
     <example>a dissident voice</example>
@@ -412,10 +416,10 @@
     <example></example>
   </word>
   <word name="enforce">
-    <example></example>
+    <example>enforce a law</example>
   </word>
   <word name="especially">
-    <example></example>
+    <example>It's especially cold today.</example>
   </word>
   <word name="evaporate">
     <example></example>
@@ -436,7 +440,8 @@
     <example></example>
   </word>
   <word name="extreme">
-    <example></example>
+    <example>extreme old age</example>
+    <example>an extreme case</example>
   </word>
   <word name="feather">
     <example>Fine feathers make fine birds.</example>
@@ -448,7 +453,7 @@
     <example></example>
   </word>
   <word name="fierce">
-    <example></example>
+    <example>a fierce tiger</example>
   </word>
   <word name="firm">
     <example></example>
@@ -466,7 +471,7 @@
     <example>She governed her country wisely.</example>
   </word>
   <word name="guilty">
-    <example></example>
+    <example>the guilty party</example>
   </word>
   <word name="hollow">
     <example></example>
@@ -545,7 +550,10 @@
     <example></example>
   </word>
   <word name="oppress">
-    <example></example>
+    <example>The country was oppressed by a tyrant.</example>
+  </word>
+  <word name="tyrant">
+    <example>The country was oppressed by a tyrant.</example>
   </word>
   <word name="oust">
     <example></example>
@@ -605,7 +613,7 @@
     <example>The Cabinet has resigned.</example>
   </word>
   <word name="restrain">
-    <example></example>
+    <example>He could not restrain his laughter.</example>
   </word>
   <word name="revolt">
     <example>The people revolted against the dictator.</example>
