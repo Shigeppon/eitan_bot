@@ -31,7 +31,7 @@ end
 index = rand(words.size)
 word = words[index]
 
-eg = "#{word[1].join("|")}"
+eg = "#{word[1].join("/")}"
 eg = "e.g. "+ eg if eg.length > 0
 
 tweet = "[#{word[0]}] #{eg} http://ejje.weblio.jp/content/#{word[0]}" 
