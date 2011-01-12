@@ -360,9 +360,6 @@
   <word name="deficit">
     <example></example>
   </word>
-  <word name="delicate">
-    <example></example>
-  </word>
   <word name="denounce">
     <example>denounce a hersy</example>
     <example>denounce a person as a trator</example>
@@ -540,11 +537,8 @@
   <word name="nerve">
     <example></example>
   </word>
-  <word name="formaer">
-    <example></example>
-  </word>
   <word name="occupy">
-    <example></example>
+    <example>The army occupied the fortress.</example>
   </word>
   <word name="opposite">
     <example></example>
@@ -635,7 +629,7 @@
     <example></example>
   </word>
   <word name="seldom">
-    <example></example>
+    <example>He seldom eats fish.</example>
   </word>
   <word name="senate">
     <example>a member of a senate</example>
